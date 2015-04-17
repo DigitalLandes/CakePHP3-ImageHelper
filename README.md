@@ -39,4 +39,4 @@ Remplacer la fonction standard de CakePHP:
 
 Le 4ème paramètre est le même que le 2ème paramètre de HtmlHelper :: l'image ()
 
-The 5th parameter is the image quality
+Le 5ème paramètre est la qualité d'image
