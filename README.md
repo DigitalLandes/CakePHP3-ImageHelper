@@ -1,6 +1,6 @@
 
 <h2> CakePHP3-ImageHelper</h2>
-L'objectif principal de cette aide CakePHP est de vous donner la possibilité de redimensionner une image sans maux de tête.
+L'objectif principal de ce Helper CakePHP est de vous donner la possibilité de redimensionner une image sans maux de tête.
 
 <h2>Exigences</h2>
 <ul>
